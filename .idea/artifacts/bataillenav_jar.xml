@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bataillenav:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bataillenav_jar</output-path>
+    <root id="archive" name="bataillenav.jar">
+      <element id="module-output" name="bataillenav" />
+    </root>
+  </artifact>
+</component>
